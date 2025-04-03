@@ -41,7 +41,7 @@ The performance of the Logistic Regression model was evaluated on both the train
 
 *Note: Out of all the combinations we have tried, the performance remains the same overall.*
 
-![LR Image](Screenshot 2025-04-02 at 11.30.52 PM)
+![LR Image]('Screenshot 2025-04-02 at 11.30.52 PM')
 
 ### Training Set Performance
 - The model achieved 90% accuracy on the training set, which indicates that it fits the training data well
@@ -71,7 +71,7 @@ We tuned the following parameters to balance complexity and generalization:
 
 ### Model Performance:
 
-![DT Image](Screenshot 2025-04-02 at 11.31.12 PM)
+![DT Image]('Screenshot 2025-04-02 at 11.31.12 PM')
 
 ### Training Set Performance:
 - Achieved 0.87 accuracy, indicating a good fit to training data.
@@ -104,7 +104,7 @@ To improve our model's performance, we employed Gradient Boosting, an ensemble m
 
 ### Model Performance:
 
-![GB Image](Screenshot 2025-04-02 at 11.31.22 PM)
+![GB Image]('Screenshot 2025-04-02 at 11.31.22 PM')
 
 ### Training Set Performance
 - The model achieved 75% accuracy, indicating that it learns patterns in the training data effectively.
@@ -134,7 +134,7 @@ To explore the potential of neural networks for our classification problem, we i
 
 ### Model Performance:
 
-![MLP Image](Screenshot 2025-04-02 at 11.31.33 PM)
+![MLP Image]('Screenshot 2025-04-02 at 11.31.33 PM')
 
 ### Training Set Performance
 - The training accuracy of 89% indicates strong learning capability.
